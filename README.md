@@ -5,7 +5,7 @@
 
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/70896774/145586303-17ee48cc-27a8-44f9-8394-8305fd45f9a0.png)
   
-.Here an example with a codepen file
+_Here an example with a codepen file_
 
 ```python
 DISCLAIMER
